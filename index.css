@@ -1,0 +1,140 @@
+body {
+    background-color:#0e0e0e;
+}
+
+.type {
+    display:flex;
+    justify-content:space-between;
+    padding-left:30px;
+    padding-right:50px;
+   }
+
+.typechild1 {
+     display:flex;
+    justify-content:flex-end;
+     color:white;
+     font-size:20px;
+     font-weight:550;
+     font-family:-apple-system,BlinkMacSystemFont,Segoe UI,
+     Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+     padding-left:30px; 
+     padding-right:10px;
+     padding-top:5px;
+     padding-bottom: 5px;
+   }
+ 
+
+   .cause {
+    color:gray;
+     font-size:17px;
+     font-weight:550;
+     font-family:-apple-system,BlinkMacSystemFont,Segoe UI,
+     Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+     padding-left:10px;
+     padding-right:10px;
+     padding-top:3px;
+     cursor:pointer;
+   }
+   
+   .style {
+     background: var(--search-input-background);
+      border: 1px solid var(--search-input-border);
+      padding: 5px 12px 5px 36px;
+      height: unset;
+      border-radius: 4px;
+      color: var(--search-input-foreground);
+   }
+
+   .button {
+    color:#ffff;
+    background-color:#0078d4;
+    align-items:center;
+    font-size:20px;
+    cursor:pointer;
+  }
+
+  .step {
+      color:gray;
+      display:flex;
+      justify-content:center;
+      padding-top:30px;
+     }
+
+  .parent {
+
+    display:flex;
+    justify-content:space-between;
+   
+  }  
+   
+  .child1 {
+    color:aliceblue; padding-right:50px;padding-left:40px;padding-top:60px;
+  }
+
+  .child1link {
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 8px;
+    padding-right: 12px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    border-top-left-radius: 32px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+    background-color:#0e0e0e;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    color:gray;
+    width: max-content;
+    margin-bottom : 8px;
+  }
+
+  .codestyle  {
+    color: var(--header-foreground);
+    font-weight: 600;
+    font-size: 48px;
+    padding-right:10px;
+    font-family:-apple-system,BlinkMacSystemFont,Segoe UI,
+    Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif; ;
+  }
+
+  .downloadbtn {
+    padding-top:10px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom:5px;
+    background-color:  #2196F3;
+    border-radius: 0.2rem;
+    font-size: 1rem;
+    color:white;
+    font-weight: 700;
+  }
+
+  .web {
+    a {
+      color: #2196F3;
+  }
+  padding-top:10px;
+  }
+
+  .img-section {
+     padding:50px;
+  }
+  
+  
